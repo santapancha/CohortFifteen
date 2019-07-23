@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>GIT - Práctica 01</title>
+<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 	<h2>Hello word</h2>
